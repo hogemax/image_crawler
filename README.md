@@ -1,10 +1,12 @@
+# image_crawler
+
 # Set up
 
 need python
 
 ```
 $ mkdir project_name && cd $_
-$ git clone --depth 1 URL
+$ git clone --depth 1 https://github.com/hogemax/image_crawler.git
 $ mkdir images
 ```
 ```
